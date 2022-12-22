@@ -1,4 +1,4 @@
-# socialFilm-Swagger-React
+# socialFilm-Swagger&React
 
 Se trata de un proyecto hecho durante el curso 2022/2023 para la asignatura de Ingeniería de Servicios de la Universidad de Santiago de compostela.
 
